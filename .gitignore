@@ -1,2 +1,7 @@
 VisualPhish/*
 VisualPhish.zip
+discriminator_weights_gan.h5
+discriminator_weights.h5
+full_ds.npz
+generator_weights_gan.h5
+generator_weights.h5
